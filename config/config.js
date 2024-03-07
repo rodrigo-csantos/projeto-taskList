@@ -1,4 +1,4 @@
 module.exports = {
   dialect: "sqlite",
-  Storage: "./db/tasks.db"
+  storage: "./db/tasks.db"
 }

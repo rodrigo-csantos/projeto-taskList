@@ -1,3 +1,5 @@
+const { Task } = require('../models/index')
+
 exports.wellcome = (req, res) => {
     res.send("Seja bem vindo ao meu app!")
 }
